@@ -8,12 +8,12 @@ A collection of programming assignments covering fundamental topics in **recursi
 
 The repository is organized into different algorithmic topics, with each **lab containing a separate `build` folder** for compilation:
 
-- 🔹 **Recursion**: Tower of Hanoi, Subset Generation, etc.
-- 🔹 **Backtracking**: N-Queens, Permutations, Combinations.
-- 🔹 **Combinatorics**: Binomial Coefficients, Subsets.
-- 🔹 **Greedy Algorithms**: Activity Selection, Knapsack.
-- 🔹 **Dynamic Programming (DP)**: Fibonacci, LIS, Knapsack.
-- 🔹 **Graph Algorithms**: BFS, DFS, Dijkstra, Bellman-Ford.
+- **Recursion**: Tower of Hanoi, Subset Generation, etc.
+- **Backtracking**: N-Queens, Permutations, Combinations.
+- **Combinatorics**: Binomial Coefficients, Subsets.
+- **Greedy Algorithms**: Activity Selection, Knapsack.
+- **Dynamic Programming (DP)**: Fibonacci, LIS, Knapsack.
+- **Graph Algorithms**: BFS, DFS, Dijkstra, Bellman-Ford.
 
 Each **lab folder** contains a `build` directory with a `Makefile` to manage compilation.
 
